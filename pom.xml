@@ -41,8 +41,6 @@
         </repository>
     </distributionManagement>
 
-
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
